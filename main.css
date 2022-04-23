@@ -80,7 +80,7 @@ main .main-input-container:hover {
     border-color: #dfe1e500;
 }
 main .main-input .search-icon {
-    background-image: url(/lupa.png);
+    background-image: url('lupa.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
